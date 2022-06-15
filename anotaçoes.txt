@@ -1,0 +1,14 @@
+Fazer formulario multi-etapas com react-router-dom, context, provider, 
+
+npm i styled-components
+npm i -D @types/styled-components
+
+npm i react-router-dom
+npm i -D @typed/react-router-dom
+
+reducer:
+
+O reducer é uma função que recebe duas coisas: state(os dados) e action(que açao executamos nesses dados).
+
+
+https://rickandmortyapi.com/api  -> Isso é uma api que tem todos os episódios e personagens e imagens de rik e morty.
